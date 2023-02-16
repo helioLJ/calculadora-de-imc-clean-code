@@ -182,6 +182,7 @@ form button:hover {
 
 @media (max-width: 400px) {
   form {
+    width: auto;
     max-width: 30rem !important;
   }
 }

@@ -179,3 +179,9 @@ form button:hover {
   transform: translateY(-30px);
   transition: transform .5s;
 }
+
+@media (max-width: 400px) {
+  form {
+    max-width: 30rem;
+  }
+}
